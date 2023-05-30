@@ -19,7 +19,7 @@ Step 5 : Display the append array in the terminal.
 
 ## Program
 
-
+```
 import java.util.Scanner;
 public class Insert_Array
 {
@@ -53,7 +53,7 @@ System.out.print(a[i]+",");
 System.out.print(a[n]);
 }
 }
-
+```
 
 
 ## Output
