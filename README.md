@@ -1,4 +1,5 @@
-# Experiment-7
+# Experiment-5
+# Java program to insert an element into array
 
 # Insert an element in an Array
 
